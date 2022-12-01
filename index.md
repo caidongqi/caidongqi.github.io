@@ -12,9 +12,9 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-<!-- - \[Under Review at ICASSP\] **AUG-FedPrompt: Practical Few-shot Federated NLP with Data-augmented Prompts** \[[pdf](pdf/ICASSP23.pdf)\]
+- \[Under Review at ICASSP\] **AUG-FedPrompt: Practical Few-shot Federated NLP with Data-augmented Prompts** \[[pdf](pdf/main-ICASSP23-FedPrompt.pdf)\]
 
-  **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu -->
+  **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
 - \[[TBD](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
 
