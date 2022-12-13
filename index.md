@@ -8,6 +8,10 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications
 
+- \[[Arxiv](https://arxiv.org/abs/2212.05974)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/FedFSL.pdf)\]
+
+  **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
+
 - \[Conditionally Accepted by MobiCom\] **AutoFedNLP: An efficient FedNLP framework** \[[pdf](pdf/AutoFedNLP.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
