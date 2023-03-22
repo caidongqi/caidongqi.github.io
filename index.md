@@ -3,7 +3,7 @@
 I'm a 2rd-year PhD student in [State Key Laboratory of Networking and Switching Technology](https://sklnst.bupt.edu.cn/), [Computer Science Department](https://www.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Shangguang Wang](http://www.sguangwang.com/) and [Prof. Mengwei Xu](https://xumengwei.github.io/). 
 Here is my [cv](/pdf/Dongqi_Cai_CV.pdf).
 
-<!-- I got my B.S. degree from [BUPT](https://www.bupt.edu.cn/) in 2019. -->
+<!-- I got my B.S. degree from [BUPT](https://www.bupt.edu.cn/) in 2021. -->
 
 Email: cdq AT bupt DOT edu DOT cn
 
