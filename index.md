@@ -13,7 +13,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[To appear at [MobiCom23](https://www.sigmobile.org/mobicom/2023/)\] **AutoFedNLP: An efficient FedNLP framework** \[[pdf](pdf/AutoFedNLP.pdf)\]
+- \[To appear at [MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **AutoFedNLP: An efficient FedNLP framework** \[[pdf](pdf/AutoFedNLP.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
@@ -25,6 +25,11 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
 
-- \[[EMDL21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\]
+- \[[EMDL 21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\]
 
   **Dongqi Cai**, Qipeng Wang, Yuanqiang Liu, Yunxin Liu, Shangguang Wang, Mengwei Xu
+
+## Internship
+- \[[WeBank](https://fate.readthedocs.io/en/latest/)\] 07/2021 - 12/2021, AI Researcher on Federated Learning. 
+
+  Mentor: [Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
