@@ -33,3 +33,13 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[[WeBank](https://fate.readthedocs.io/en/latest/)\] 07/2021 - 12/2021, AI Researcher on Federated Learning. 
 
   Mentor: [Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
+
+## Academic Service
+- \[[IoTJ](https://ieee-iotj.org/)\] Reviewer
+- \[[SAGC 2022](https://www.datacom-ieee.org/sagc2022/)\] Reviewer
+- \[[ncsc-edge 2022](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] PC member
+
+## Awards
+- [Outstanding Graduate Student] 2022, State Key Laboratory of Networking and Switching Technology
+- [First-class academic scholarship] 2022, BUPT
+- \[[National-level Project Evaluation](./pdf/dachuang.pdf)\] 2020, National Student Innovation and Entrepreneurship Project, 82/391 (21%).
