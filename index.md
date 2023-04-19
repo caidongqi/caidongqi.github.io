@@ -18,7 +18,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[Arxiv](https://arxiv.org/abs/2212.05974)\] **AUG-FedPrompt: Practical Few-shot Federated NLP with Data-augmented Prompts** \[[pdf](pdf/main-ICASSP23-FedPrompt.pdf)\]
+- \[[EuroMLSys](https://euromlsys.eu/)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
