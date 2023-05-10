@@ -14,15 +14,15 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[To appear at [MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **AutoFedNLP: An efficient FedNLP framework** \[[pdf](pdf/AutoFedNLP.pdf)\]
+- \[To appear at [ACM MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **AutoFedNLP: An efficient FedNLP framework** \[[pdf](pdf/AutoFedNLP.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[EuroMLSys](https://euromlsys.eu/)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\]
+- \[[EuroMLSys 23](https://orange.hosting.lsoft.com/trk/clickp?ref=znwrbbrs9_6-2d8c7_0x33ae25x0148&doi=3578356.3592575)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[TBD](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
+- \[[IEEE TBD](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
 
   **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
 
