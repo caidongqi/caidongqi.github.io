@@ -14,7 +14,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[To appear at [ACM MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **AutoFedNLP: An efficient FedNLP framework** \[[pdf](pdf/AutoFedNLP.pdf)\]
+- \[To appear at [ACM MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/AutoFedNLP.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
