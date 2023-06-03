@@ -22,9 +22,9 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[IEEE TBD](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
+<!-- - \[[IEEE TBD](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
 
-  **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
+  **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang -->
 
 - \[[EMDL 21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\]
 
