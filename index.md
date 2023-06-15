@@ -10,7 +10,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications
 
-- \[[Arxiv](https://arxiv.org/abs/2212.05974)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/FedFSL.pdf)\]
+- \[To appear at [ACM MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/FedFSL.pdf)\]
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
