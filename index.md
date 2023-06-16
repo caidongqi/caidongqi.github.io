@@ -46,4 +46,5 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Materials
 - \[[Paper-list-resource-efficient-large-language-model](https://github.com/UbiquitousLearning/Paper-list-resource-efficient-large-language-model)\]
-
+- \[[Awesome-Federated-Learning]](https://github.com/chaoyanghe/Awesome-Federated-Learning#Natural-language-Processing)
+- \[[Edge-AI-Paper-List]](https://github.com/xumengwei/Edge-AI-Paper-List)
