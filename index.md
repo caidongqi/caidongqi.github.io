@@ -45,5 +45,5 @@ Email: cdq AT bupt DOT edu DOT cn
 - [First-class academic scholarship] 2022, BUPT
 
 ## Materials
-- \[[FedLLM](materials/llm.md)\]
+- \[[Paper-list-resource-efficient-large-language-model](https://github.com/UbiquitousLearning/Paper-list-resource-efficient-large-language-model)\]
 
