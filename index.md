@@ -36,7 +36,7 @@ Email: cdq AT bupt DOT edu DOT cn
 ## Internship
 - \[[WeBank](https://fate.readthedocs.io/en/latest/)\] 07/2021 - 12/2021, AI Researcher on Federated Learning. 
 
-  Mentor: [Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
+  Mentor: [Dr. Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
 
 ## Academic Service
 - \[[IoTJ](https://ieee-iotj.org/)\] Reviewer
