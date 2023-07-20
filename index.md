@@ -44,6 +44,7 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[[ncsc-edge 2022](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] PC member
 
 ## Awards
+- [Excellent Ph.D. Students Foundation] 2023, BUPT
 - [Outstanding Graduate Student] 2022, State Key Laboratory of Networking and Switching Technology
 - [First-class academic scholarship] 2022, BUPT
 
