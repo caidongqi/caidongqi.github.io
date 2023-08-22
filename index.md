@@ -13,15 +13,15 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications
 
-- \[To appear at [ACM MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/FedFSL.pdf)\]
+- \[To appear at [ACM MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] 
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[To appear at [ACM MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/AutoFedNLP.pdf)\]
+- \[To appear at [ACM MobiCom 23](https://www.sigmobile.org/mobicom/2023/)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/MobiCom23-FedAdapter.pdf)\] \[[poster](pdf/TURC-FedAdapter)\]
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[EuroMLSys 23](https://orange.hosting.lsoft.com/trk/clickp?ref=znwrbbrs9_6-2d8c7_0x33ae25x0148&doi=3578356.3592575)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\]
+- \[[EuroMLSys 23](https://orange.hosting.lsoft.com/trk/clickp?ref=znwrbbrs9_6-2d8c7_0x33ae25x0148&doi=3578356.3592575)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\] \[[slides](slides/EuroMLSys23_Cai.pptx)\] \[[poster](slides/EuroMLSys23_poster.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
@@ -29,7 +29,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang -->
 
-- \[[EMDL 21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\]
+- \[[EMDL 21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\] \[[slides](slides/EMDL21_Cai.pptx)\]
 
   **Dongqi Cai**, Qipeng Wang, Yuanqiang Liu, Yunxin Liu, Shangguang Wang, Mengwei Xu
 
