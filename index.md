@@ -13,6 +13,14 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications
 
+- **Rethinking Mobile AI Ecosystem in the LLM Era**
+
+  Jinliang Yuan, Chen Yang, **Dongqi Cai**, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
+
+- \[Arxiv (link to be added)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arxiv-forward-fl.pdf)\] 
+
+  Mengwei Xu, Yaozong Wu, **Dongqi Cai**, Xiang Li, Shangguang Wang
+
 - \[To appear at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] 
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
