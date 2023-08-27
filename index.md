@@ -1,6 +1,6 @@
 ## Dongqi Cai (蔡栋琪)
 
-I'm a 2nd-year PhD student in 
+I'm a 3rd-year PhD student in 
 [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). 
 Additionally, I feel fortunate to receive remote guidance from [Prof. Felix Xiaozhu Lin](https://fxlin.github.io/) in the development of efficient NLP systems.
 Here is my [cv](/pdf/cv-cdq.pdf).
