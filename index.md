@@ -29,7 +29,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[EuroMLSys@EuroSys'23](https://orange.hosting.lsoft.com/trk/clickp?ref=znwrbbrs9_6-2d8c7_0x33ae25x0148&doi=3578356.3592575)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\] \[[slides](slides/EuroMLSys23_Cai.pptx)\] \[[poster](slides/EuroMLSys23_poster.pdf)\]
+- \[[EuroMLSys@EuroSys'23](https://orange.hosting.lsoft.com/trk/clickp?ref=znwrbbrs9_6-2d8c7_0x33ae25x0148&doi=3578356.3592575)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\] \[[slides](slides/EuroMLSys23_Cai.pptx)\] \[[poster](pdf/EuroMLSys23_poster.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
