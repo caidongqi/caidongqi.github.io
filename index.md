@@ -11,11 +11,11 @@ Here is my [cv](/pdf/cv-cdq.pdf).
 
 Email: cdq AT bupt DOT edu DOT cn
 
-## Selected Publications
+## Selected Publications (* = equal contributions)
 
 - **Rethinking Mobile AI Ecosystem in the LLM Era**
 
-  Jinliang Yuan, Chen Yang, **Dongqi Cai**, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
+  Jinliang Yuan*, Chen Yang*, **Dongqi Cai***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
 - \[Arxiv (link to be added)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arxiv-forward-fl.pdf)\] 
 
