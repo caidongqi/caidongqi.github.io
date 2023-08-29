@@ -48,7 +48,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Academic Service
 - \[[IoTJ](https://ieee-iotj.org/)\] Reviewer
-- \[[SAGC 2022](https://www.datacom-ieee.org/sagc2022/)\] Reviewer
+- \[[SAGC 2022](https://data-com.org/sagc2022/)\] Reviewer
 - \[[ncsc-edge 2022](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] PC member
 
 ## Awards
