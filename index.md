@@ -13,7 +13,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications (* = equal contributions)
 
-- **Rethinking Mobile AI Ecosystem in the LLM Era**
+- \[[arXiv](https://arxiv.org/abs/2308.14363)\]**Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](pdf/arxiv-M4.pdf)\] 
 
   Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
