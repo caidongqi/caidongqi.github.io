@@ -13,11 +13,11 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications (* = equal contributions)
 
-- \[[arXiv](https://arxiv.org/abs/2308.14363)\] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](pdf/arxiv-M4.pdf)\] 
+- \[[arXiv](https://arxiv.org/abs/2308.14363)\] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](pdf/arXiv-M4.pdf)\] 
 
   Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
-- \[[arXiv](https://arxiv.org/abs/2308.13894)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arxiv-forward-fl.pdf)\] 
+- \[[arXiv](https://arxiv.org/abs/2308.13894)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arXiv-forward-fl.pdf)\] 
 
   Mengwei Xu, Yaozong Wu, **Dongqi Cai**, Xiang Li, Shangguang Wang
 
@@ -33,9 +33,9 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-<!-- - \[[IEEE TBD](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
+- \[[IEEE TBD'22](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
 
-  **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang -->
+  **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
 
 - \[[EMDL@MobiSys'21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\] \[[slides](slides/EMDL21_Cai.pptx)\]
 
