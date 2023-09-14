@@ -19,7 +19,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 - \[[arXiv](https://arxiv.org/abs/2308.13894)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arXiv-forward-fl.pdf)\] 
 
-  Mengwei Xu, Yaozong Wu, **Dongqi Cai**, Xiang Li, Shangguang Wang
+  Mengwei Xu, Yaozong Wu, **Dongqi Cai**, Xiang Li, Shangguang Wang 
 
 - \[To appear at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] 
 
