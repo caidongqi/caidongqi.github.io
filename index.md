@@ -17,7 +17,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
-- \[[arXiv](https://arxiv.org/abs/2308.13894)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arXiv-forward-fl.pdf)\] 
+- \[[arXiv](https://arxiv.org/abs/2308.13894)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] 
 
   Mengwei Xu, Yaozong Wu, **Dongqi Cai**, Xiang Li, Shangguang Wang 
 
