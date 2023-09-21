@@ -47,8 +47,10 @@ Email: cdq AT bupt DOT edu DOT cn
   Mentor: [Dr. Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
 
 ## Academic Service
-- Reviewer: \[[IoTJ](https://ieee-iotj.org/)\] \[[SAGC 2022](https://data-com.org/sagc2022/)\] 
-- PC member: \[[ncsc-edge 2022](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
+- PC member: \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
+- Reviewer: \[[IoTJ](https://ieee-iotj.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\]
+- External reviewer: \[[ICWS'23](https://conferences.computer.org/icws/2023/)\]\[[EIS'21](https://www.embedded-ai.org/2021/index2.html)\]
+
 
 ## Awards
 - [Excellent Ph.D. Students Foundation] 2023, BUPT
