@@ -21,11 +21,11 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu, Yaozong Wu, **Dongqi Cai**, Xiang Li, Shangguang Wang 
 
-- \[To appear at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] 
+- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613277)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] 
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[To appear at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/MobiCom23-FedAdapter.pdf)\] \[[poster](pdf/TURC-FedAdapter.pdf)\]
+- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3592505)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/MobiCom23-FedAdapter.pdf)\] \[[poster](pdf/TURC-FedAdapter.pdf)\]
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
