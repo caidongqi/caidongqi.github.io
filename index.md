@@ -37,7 +37,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
 
-- \[[EMDL@MobiSys'21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\] \[[slides](slides/EMDL21_Cai.pdf)\]
+- \[[EMDL@MobiSys'21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\] \[[slides](slides/EMDL21_Cai.pdf)\] \[[video](https://www.youtube.com/watch?v=oZWKZ0VBNkQ&t=937s)\]
 
   **Dongqi Cai**, Qipeng Wang, Yuanqiang Liu, Yunxin Liu, Shangguang Wang, Mengwei Xu
 
