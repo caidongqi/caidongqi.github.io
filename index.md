@@ -12,7 +12,7 @@ Here is my [cv](/pdf/cv-cdq.pdf).
 Email: cdq AT bupt DOT edu DOT cn
 
 ## News
-- \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/) and immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/)!
+- \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/)! Immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/)!
 
 ## Selected Publications (* = equal contributions)
 
