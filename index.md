@@ -56,6 +56,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 
 ## Awards
+- [National Scholarship] 2023, Ministry of Education
 - [Excellent Ph.D. Students Foundation] 2023, BUPT
 - [Outstanding Graduate Student] 2022, State Key Laboratory of Networking and Switching Technology
 - [First-class academic scholarship] 2022, BUPT
