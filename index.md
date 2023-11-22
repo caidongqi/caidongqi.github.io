@@ -12,17 +12,19 @@ Here is my [Curriculum Vitae](/pdf/cv-cdq.pdf).
 Email: cdq AT bupt DOT edu DOT cn
 
 ## News!
+- \[2023-11\] Our paper on Mobile Foundation Model is conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)!
 - \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/)! Immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/)!
 
 ## Selected Publications (* = equal contributions)
 
-- \[[arXiv](https://arxiv.org/abs/2308.14363)\] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](pdf/arXiv-M4.pdf)\] 
-
-  Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
 - \[[arXiv](https://arxiv.org/abs/2308.13894)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] 
 
   Mengwei Xu, Yaozong Wu, **Dongqi Cai**, Xiang Li, Shangguang Wang 
+
+- \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](pdf/arXiv-M4.pdf)\] 
+
+  Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
 - \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613277)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] \[[slides](slides/MobiCom-FeS-bk.pdf)\] 
 
