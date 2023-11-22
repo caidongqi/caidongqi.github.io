@@ -12,7 +12,7 @@ Here is my [Curriculum Vitae](/pdf/cv-cdq.pdf).
 Email: cdq AT bupt DOT edu DOT cn
 
 ## News!
-- \[2023-11\] Our paper on Mobile Foundation Model is conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)!
+- \[2023-11\] Our paper on mobile foundation model was conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)!
 - \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/)! Immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/)!
 
 ## Selected Publications (* = equal contributions)
