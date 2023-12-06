@@ -4,8 +4,6 @@ logo: /picture/cdq-madrid-mobicom23.jpg
 
 links:
   - label: "View My GitHub Profile"
-    icon: "fab fa-github"
     url: "https://github.com/caidongqi"
   - label: "View My Google Profile"
-    icon: "fab fa-google"
     url: "https://scholar.google.com/citations?user=dIimkboAAAAJ&hl=zh-CN"
