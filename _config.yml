@@ -1,9 +1,3 @@
 theme: jekyll-theme-minimal
 title: Dongqi's Homepage
 logo: /picture/cdq-madrid-mobicom23.jpg
-
-links:
-  - label: "View My GitHub Profile"
-    url: "https://github.com/caidongqi"
-  - label: "View My Google Profile"
-    url: "https://scholar.google.com/citations?user=dIimkboAAAAJ&hl=zh-CN"
