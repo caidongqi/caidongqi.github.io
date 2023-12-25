@@ -52,8 +52,8 @@ Email: cdq AT bupt DOT edu DOT cn
   Mentor: [Dr. Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
 
 ## Academic Service
-- PC member: \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] \[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] 
-- Reviewer: \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755/)\] \[[IoTJ](https://ieee-iotj.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\]
+- PC member: \[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
+- Reviewer: \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755/)\] \[[IoTJ](https://ieee-iotj.org/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] 
 - External reviewer: \[[ICWS'23](https://conferences.computer.org/icws/2023/)\] \[[EIS'21](https://www.embedded-ai.org/2021/index2.html)\]
 
 
