@@ -17,10 +17,17 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications (* = equal contributions)
 
+- \[[arXiv](https://arxiv.org/abs/2401.08092)\] **FEfficient LLM and Multimodal Foundation Model Survey** \[[pdf](pdf/arxiv-Survey-Efficient-LLM)\] 
 
-- \[[arXiv](https://arxiv.org/abs/2308.13894)\] **Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] 
+  Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
 
-  Mengwei Xu, Yaozong Wu, **Dongqi Cai**, Xiang Li, Shangguang Wang 
+- \[[arXiv](https://arxiv.org/abs/2308.13894)\] **FwdLLM: Efficient FedLLM using Forward Gradient** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] 
+
+  Mengwei Xu, **Dongqi Cai**, Yaozong Wu, Xiang Li, Shangguang Wang 
+
+- \[arXiv\] **Lightweight Protection for Privacy in Offloaded Speech Understanding** \[[pdf](pdf/arXiv-XXX.pdf)\] 
+
+  **Dongqi Cai**, Shangguang Wang, Zeling Zhang, Felix Xiaozhu Lin, Mengwei Xu
 
 - \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](pdf/arXiv-M4.pdf)\] 
 
@@ -65,6 +72,6 @@ Email: cdq AT bupt DOT edu DOT cn
 - [First-class academic scholarship] 2022, BUPT
 
 ## Materials
-- \[[Paper-list-resource-efficient-large-language-model](https://github.com/UbiquitousLearning/Paper-list-resource-efficient-large-language-model)\]
+- \[[Paper-list-resource-efficient-large-language-model](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 - \[[Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning#Natural-language-Processing)\]
 - \[[Edge-AI-Paper-List](https://github.com/xumengwei/Edge-AI-Paper-List)\]
