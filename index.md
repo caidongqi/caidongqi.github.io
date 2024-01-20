@@ -17,7 +17,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications (* = equal contributions)
 
-- \[[arXiv](https://arxiv.org/abs/2401.08092)\] **FEfficient LLM and Multimodal Foundation Model Survey** \[[pdf](pdf/arxiv-Survey-Efficient-LLM)\] 
+- \[[arXiv](https://arxiv.org/abs/2401.08092)\] **A Survey of Resource-Efficient LLM and Multimodal Foundation Model Survey** \[[pdf](pdf/arXiv-Survey-Efficient-LLM)\] 
 
   Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
 
