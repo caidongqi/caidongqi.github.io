@@ -26,7 +26,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu, **Dongqi Cai**, Yaozong Wu, Xiang Li, Shangguang Wang 
 
-- \[arXiv\] **Lightweight Protection for Privacy in Offloaded Speech Understanding** \[[pdf](pdf/arXiv-XXX.pdf)\] 
+- \[[arXiv](https://arxiv.org/abs/2401.11983)\] **Lightweight Protection for Privacy in Offloaded Speech Understanding** \[[pdf](pdf/arXiv-XXX.pdf)\] 
 
   **Dongqi Cai**, Shangguang Wang, Zeling Zhang, Felix Xiaozhu Lin, Mengwei Xu
 
