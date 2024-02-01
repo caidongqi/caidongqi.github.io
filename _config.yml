@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: benbalter/jekyll-remote-theme
 title: Dongqi's Homepage
 logo: /picture/cdq-madrid-mobicom23.jpg
 google_analytics: G-8VEK942CH3
