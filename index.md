@@ -23,7 +23,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 <!-- - \[arXiv\] **A Survey of Backpropagation-free Training For LLMs** \[[pdf](pdf/arXiv-Fwd-Survey.pdf)\] 
 
-  Hanzi Mei, Dongqi Cai, Yaozong Wu, Shangguang Wang, Mengwei Xu -->
+  Hanzi Mei, **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Mengwei Xu -->
 
 - \[[arXiv](https://arxiv.org/abs/2308.13894)\] **FwdLLM: Efficient FedLLM using Forward Gradient** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] 
 
