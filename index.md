@@ -29,7 +29,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu, **Dongqi Cai**, Yaozong Wu, Xiang Li, Shangguang Wang 
 
-- \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](pdf/arXiv-M4.pdf)\] 
+- \[[MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](pdf/arXiv-M4.pdf)\] 
 
   Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
