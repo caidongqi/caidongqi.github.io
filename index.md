@@ -13,7 +13,7 @@ Here is my [Curriculum Vitae](/materials/cv-cdq.pdf).
 Email: cdq AT bupt DOT edu DOT cn
 
 ## News!
-- \[2024-02\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) of [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)
+- \[2024-02\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) at [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)
 - \[2023-11\] Paper on mobile foundation model was conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)
 - \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/) and immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/)
 
