@@ -18,7 +18,7 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/) and immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/)
 
 ## Selected Publications (* = equal contributions)
-- \[[arXiv](https://arxiv.org/abs/2401.08092)\] **A Survey of Resource-Efficient LLM and Multimodal Foundation Models** \[[pdf](pdf/arXiv-Efficient-LLM.pdf)\] 
+- \[[arXiv](https://arxiv.org/abs/2401.08092)\] **A Survey of Resource-Efficient LLM and Multimodal Foundation Models** \[[pdf](pdf/arXiv-Efficient-LLM.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
   Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
 
