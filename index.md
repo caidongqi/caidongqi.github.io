@@ -22,7 +22,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
 
-- \[[arXiv](https://arxiv.org/abs/2403.00881)\] **FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission** \[[pdf](pdf/arXiv-FedRDMA.pdf)\] 
+- \[[arXiv](https://arxiv.org/abs/2403.00881)\] **FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission** \[[pdf](pdf/arXiv-FedRDMA.pdf)\] \[[code](https://github.com/Marovlo/easyPyverbs)\] 
 
   Zeling Zhang\*, **Dongqi Cai\***, Yiran Zhang, Mengwei Xu, Shangguang Wang, Ao Zhou
 
@@ -30,19 +30,19 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Hanzi Mei, **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Mengwei Xu -->
 
-- \[[arXiv](https://arxiv.org/abs/2308.13894)\] **FwdLLM: Efficient FedLLM using Forward Gradient** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] 
+- \[[arXiv](https://arxiv.org/abs/2308.13894)\] **FwdLLM: Efficient FedLLM using Forward Gradient** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] \[[code](https://github.com/UbiquitousLearning/FwdLLM)\] 
 
   Mengwei Xu, **Dongqi Cai**, Yaozong Wu, Xiang Li, Shangguang Wang 
 
-- \[[MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] 
+- \[[MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] \[[code](https://github.com/UbiquitousLearning/MobileFM)\] 
 
   Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
-- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613277)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] \[[slides](slides/MobiCom-FeS-bk.pdf)\] 
+- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613277)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] \[[slides](slides/MobiCom-FeS-bk.pdf)\] \[[code](https://github.com/UbiquitousLearning/FeS)\] 
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3592505)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/MobiCom23-FedAdapter.pdf)\] \[[poster](pdf/TURC-FedAdapter.pdf)\] \[[slides](slides/MobiCom-AdaFL-bk.pdf)\] 
+- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3592505)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/MobiCom23-FedAdapter.pdf)\] \[[poster](pdf/TURC-FedAdapter.pdf)\] \[[slides](slides/MobiCom-AdaFL-bk.pdf)\] \[[code](https://github.com/UbiquitousLearning/FedAdapter)\] 
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
@@ -54,7 +54,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
 
-- \[[EMDL@MobiSys'21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\] \[[slides](slides/EMDL21_Cai.pdf)\] \[[video](https://www.youtube.com/watch?v=oZWKZ0VBNkQ&t=937s)\]
+- \[[EMDL@MobiSys'21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\] \[[slides](slides/EMDL21_Cai.pdf)\] \[[video](https://www.youtube.com/watch?v=oZWKZ0VBNkQ&t=937s)\] \[[code](https://github.com/UbiquitousLearning/Benchmark-On-Device-Training)\] 
 
   **Dongqi Cai**, Qipeng Wang, Yuanqiang Liu, Yunxin Liu, Shangguang Wang, Mengwei Xu
 
