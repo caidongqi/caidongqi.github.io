@@ -1,5 +1,6 @@
 ## Dongqi Cai (蔡栋琪)
-<!-- Potential English Name: Dongqi (Kenny) Cai -->
+<!-- Potential English Name: Kenny, Leo, Jasper -->
+ <!-- Jasper is a gemstone associated with peace and tranquility. The name could symbolize the serene and beautiful moment captured in the phrase, connecting to the earthly yet ethereal nature of such a state. -->
 
 I'm a 3rd-year PhD student in 
 [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). 
@@ -22,10 +23,6 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
 
-- \[[arXiv](https://arxiv.org/abs/2403.00881)\] **FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission** \[[pdf](pdf/arXiv-FedRDMA.pdf)\] \[[code](https://github.com/Marovlo/easyPyverbs)\] 
-
-  Zeling Zhang\*, **Dongqi Cai\***, Yiran Zhang, Mengwei Xu, Shangguang Wang, Ao Zhou
-
 <!-- - \[arXiv\] **A Survey of Backpropagation-free Training For LLMs** \[[pdf](pdf/arXiv-Fwd-Survey.pdf)\] 
 
   Hanzi Mei, **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Mengwei Xu -->
@@ -33,6 +30,10 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[[arXiv](https://arxiv.org/abs/2308.13894)\] **FwdLLM: Efficient FedLLM using Forward Gradient** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] \[[code](https://github.com/UbiquitousLearning/FwdLLM)\] 
 
   Mengwei Xu, **Dongqi Cai**, Yaozong Wu, Xiang Li, Shangguang Wang 
+
+- \[[EuroMLSys@EuroSys'24](https://euromlsys.eu/)\] **FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission** \[[pdf](pdf/arXiv-FedRDMA.pdf)\] \[[code](https://github.com/Marovlo/easyPyverbs)\] 
+
+  Zeling Zhang\*, **Dongqi Cai\***, Yiran Zhang, Mengwei Xu, Shangguang Wang, Ao Zhou
 
 - \[[MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] \[[code](https://github.com/UbiquitousLearning/MobileFM)\] 
 
@@ -46,7 +47,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[EuroMLSys@EuroSys'23](https://orange.hosting.lsoft.com/trk/clickp?ref=znwrbbrs9_6-2d8c7_0x33ae25x0148&doi=3578356.3592575)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\] \[[slides](slides/EuroMLSys23_Cai.pdf)\] \[[poster](pdf/EuroMLSys23_poster.pdf)\] \[[video](https://www.youtube.com/watch?v=7O88PnYi2NU)]
+- \[[EuroMLSys@EuroSys'23](https://dl.acm.org/doi/10.1145/3578356.3592575)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\] \[[slides](slides/EuroMLSys23_Cai.pdf)\] \[[poster](pdf/EuroMLSys23_poster.pdf)\] \[[video](https://www.youtube.com/watch?v=7O88PnYi2NU)]
 
   **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
