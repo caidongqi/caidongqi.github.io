@@ -14,7 +14,8 @@ Here is my [Curriculum Vitae](/materials/cv-cdq.pdf).
 Email: cdq AT bupt DOT edu DOT cn
 
 ## News!
-- \[2024-02\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) at [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)
+<!-- - \[2024-03\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) at [MobiSys'24](https://www.sigmobile.org/mobisys/2024/) -->
+- \[2024-02\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) at [MobiCom'24](https://www.sigmobile.org/mobicom/2024/) 
 - \[2023-11\] Paper on mobile foundation model was conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)
 - \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/) and immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/)
 
@@ -65,7 +66,7 @@ Email: cdq AT bupt DOT edu DOT cn
   Mentor: [Dr. Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
 
 ## Academic Service
-- PC member: \[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
+- PC member: \[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
 - Reviewer: \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] \[[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\] [[IoTJ](https://ieee-iotj.org/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] 
 - External reviewer: \[[ICWS'23](https://conferences.computer.org/icws/2023/)\] \[[EIS'21](https://www.embedded-ai.org/2021/index2.html)\]
 
