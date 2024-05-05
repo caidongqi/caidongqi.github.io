@@ -35,9 +35,6 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu, **Dongqi Cai**, Yaozong Wu, Xiang Li, Shangguang Wang 
 
-- \[[EuroMLSys@EuroSys'24](https://euromlsys.eu/)\] **FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission** \[[pdf](pdf/arXiv-FedRDMA.pdf)\] \[[code](https://github.com/Marovlo/easyPyverbs)\] 
-
-  Zeling Zhang\*, **Dongqi Cai\***, Yiran Zhang, Mengwei Xu, Shangguang Wang, Ao Zhou
 
 - \[[MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] \[[code](https://github.com/UbiquitousLearning/MobileFM)\] 
 
@@ -51,17 +48,11 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[EuroMLSys@EuroSys'23](https://dl.acm.org/doi/10.1145/3578356.3592575)\] **Towards Practical Few-shot Federated NLP** \[[pdf](pdf/main-EuroMLSys23-FedPrompt.pdf)\] \[[slides](slides/EuroMLSys23_Cai.pdf)\] \[[poster](pdf/EuroMLSys23_poster.pdf)\] \[[video](https://www.youtube.com/watch?v=7O88PnYi2NU)]
-
-  **Dongqi Cai**, Yaozong Wu, Haitao Yuan, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
 - \[[IEEE TBD'22](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
 
   **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
 
-- \[[EMDL@MobiSys'21](https://dl.acm.org/doi/abs/10.1145/3469116.3470009)\] **Towards ubiquitous learning: A first measurement of on-device training performance** \[[pdf](pdf/EMDL21.pdf)\] \[[slides](slides/EMDL21_Cai.pdf)\] \[[video](https://www.youtube.com/watch?v=oZWKZ0VBNkQ&t=937s)\] \[[code](https://github.com/UbiquitousLearning/Benchmark-On-Device-Training)\] 
-
-  **Dongqi Cai**, Qipeng Wang, Yuanqiang Liu, Yunxin Liu, Shangguang Wang, Mengwei Xu
 
 ## Internship
 - \[[WeBank](https://fate.readthedocs.io/en/latest/)\] 07/2021 - 12/2021, AI Researcher on Federated Learning. 
