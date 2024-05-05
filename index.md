@@ -15,7 +15,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## News!
 <!-- - \[2024-03\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) at [MobiSys'24](https://www.sigmobile.org/mobisys/2024/) -->
-- \[2024-05\] Paper on Forward-only FL was conditionally accepted by [ATC'24](https://www.usenix.org/conference/atc24)
+- \[2024-05\] Paper on Forward-only FL was accepted by [ATC'24](https://www.usenix.org/conference/atc24)
 - \[2024-04\] Invited to deliver a keynote speech at CCF Talk series
 - \[2024-03\] Glad to serve as part of the [Artifact Evaluation PC](https://mobisys24ae.hotcrp.com/users/pc) at [MobiSys'24](https://www.sigmobile.org/mobisys/2024/) 
 - \[2024-02\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) at [MobiCom'24](https://www.sigmobile.org/mobicom/2024/) 
