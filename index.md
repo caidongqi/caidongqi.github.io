@@ -39,7 +39,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
-- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613277)\] **Federated NLP in Few-shot Scenarios** \[[pdf](pdf/MobiCom23-FeS.pdf)\] \[[slides](slides/MobiCom-FeS-bk.pdf)\] \[[code](https://github.com/UbiquitousLearning/FeS)\] 
+- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613277)\] **Federated Few-shot Learning for Mobile NLP** \[[pdf](pdf/MobiCom23-FeS.pdf)\] \[[slides](slides/MobiCom-FeS-bk.pdf)\] \[[code](https://github.com/UbiquitousLearning/FeS)\] 
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
