@@ -21,7 +21,7 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[2023-11\] Paper on mobile foundation model was conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)
 - \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/) and immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/) -->
 
-## Selected Publications (* = equal contributions)
+## Selected Publications (* = Co-first/Corresponding)
 - \[[arXiv](https://arxiv.org/abs/2401.08092)\] **A Survey of Resource-Efficient LLM and Multimodal Foundation Models** \[[pdf](pdf/arXiv-Efficient-LLM.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
   Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
@@ -32,7 +32,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 - \[[ATC'24](https://www.usenix.org/conference/atc24)\] **FwdFL: Efficient Federated Finetuning of Language Models** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] \[[code](https://github.com/UbiquitousLearning/FwdLLM)\] 
 
-  Mengwei Xu, **Dongqi Cai**, Yaozong Wu, Xiang Li, Shangguang Wang 
+  Mengwei Xu, **Dongqi Cai\***, Yaozong Wu, Xiang Li, Shangguang Wang 
 
 
 - \[[MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] \[[code](https://github.com/UbiquitousLearning/MobileFM)\] 
