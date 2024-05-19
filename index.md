@@ -23,7 +23,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Selected Publications (*=Co-first/Corr. Author)
 - \[[arXiv](https://arxiv.org/abs/2401.08092)\] **A Survey of Resource-Efficient LLM and Multimodal Foundation Models** \[[pdf](pdf/arXiv-Efficient-LLM.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
-x
+
   Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
 
 <!-- - \[arXiv\] **A Survey of Backpropagation-free Training For LLMs** \[[pdf](pdf/arXiv-Fwd-Survey.pdf)\] 
