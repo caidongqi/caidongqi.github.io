@@ -30,7 +30,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Hanzi Mei, **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Mengwei Xu -->
 
-- \[[ATC'24](https://www.usenix.org/conference/atc24)\] **FwdFL: Efficient Federated Finetuning of Language Models** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] \[[code](https://github.com/UbiquitousLearning/FwdLLM)\] 
+- \[[USENIX ATC'24](https://www.usenix.org/conference/atc24)\] **FwdFL: Efficient Federated Finetuning of Language Models** \[[pdf](pdf/arXiv-FwdLLM.pdf)\] \[[code](https://github.com/UbiquitousLearning/FwdLLM)\] 
 
   Mengwei Xu, **Dongqi Cai\***, Yaozong Wu, Xiang Li, Shangguang Wang 
 
