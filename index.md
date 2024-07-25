@@ -3,9 +3,9 @@
  <!-- Jasper is a gemstone associated with peace and tranquility. The name could symbolize the serene and beautiful moment captured in the phrase, connecting to the earthly yet ethereal nature of such a state. -->
 
 I'm a 3rd-year (soon to be 4th-year) PhD student in 
-[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Mengwei Xu](https://xumengwei.github.io/) and [Shangguang Wang](http://www.sguangwang.com/). 
-Additionally, I feel fortunate to receive remote guidance from [Felix Xiaozhu Lin](https://fxlin.github.io/) in the development of efficient mobile systems.
-Starting from September, I will be visiting the [University of Cambridge](https://www.cam.ac.uk) for one year under the supervision of [Nicholas D. Lane](http://niclane.org).
+[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). 
+Additionally, I feel fortunate to receive remote guidance from [Prof. Felix Xiaozhu Lin](https://fxlin.github.io/) in the development of efficient mobile systems.
+Starting from September, I will be visiting the [University of Cambridge](https://www.cam.ac.uk) for one year under the supervision of [Prof. Nicholas D. Lane](http://niclane.org).
 Here is my [Curriculum Vitae](/materials/cv-cdq.pdf).
 
 <!-- [State Key Laboratory of Networking and Switching Technology](https://sklnst.bupt.edu.cn/), [Computer Science Department](https://scs.bupt.edu.cn/),  -->
