@@ -57,7 +57,7 @@ Email: cdq AT bupt DOT edu DOT cn
 ## Internship&Experience
 - \[[Unversity of Cambridge](https://fate.readthedocs.io/en/latest/)\] 09/2024 - 09/2025, Visiting PhD Student. 
 
-  Mentor: [Prof. Nicholas D. Lane](http://niclane.org)
+  Advisor: [Prof. Nicholas D. Lane](http://niclane.org)
 - \[[WeBank](https://fate.readthedocs.io/en/latest/)\] 07/2021 - 12/2021, AI Researcher on Federated Learning. 
 
   Mentor: [Dr. Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
@@ -69,7 +69,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 
 ## Awards
-- [CSC Scholarship] 2024， China Scholarship Council
+- [CSC Scholarship] 2024, China Scholarship Council
 - [Travel Grant] 2024, EuroSys/MobiSys/ATC
 - [National Scholarship] 2023, Ministry of Education
 - [Outstanding Graduate Student] 2023, BUPT
