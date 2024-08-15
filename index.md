@@ -55,7 +55,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 
 ## Internship&Experience
-- \[[Unversity of Cambridge](https://fate.readthedocs.io/en/latest/)\] 09/2024 - 09/2025, Visiting PhD Student. 
+- \[[University of Cambridge](https://fate.readthedocs.io/en/latest/)\] 09/2024 - 09/2025, Visiting PhD Student. 
 
   Advisor: [Prof. Nicholas D. Lane](http://niclane.org)
 - \[[WeBank](https://fate.readthedocs.io/en/latest/)\] 07/2021 - 12/2021, AI Researcher on Federated Learning. 
