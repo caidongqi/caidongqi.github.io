@@ -64,7 +64,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 ## Academic Service
 - PC member: \[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
-- Reviewer: \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] \[[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\] [[IoTJ](https://ieee-iotj.org/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] 
+- Reviewer:  \[[TSC](https://ieeexplore.ieee.org/document/4688915)\] \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] \[[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\] [[IoTJ](https://ieee-iotj.org/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\] \[[ICASSP'25](https://2025.ieeeicassp.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] 
 - External reviewer: \[[ICWS'23](https://conferences.computer.org/icws/2023/)\] \[[EIS'21](https://www.embedded-ai.org/2021/index2.html)\]
 
 
