@@ -28,6 +28,18 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
 
+- \[[arXiv](https://arxiv.org/abs/2401.08092)\] **Small Language Models: Survey, Measurements, and Insights** \[[pdf](pdf/arXiv-SLM-survey.pdf)\] \[[leader board](https://github.com/UbiquitousLearning/SLM_Survey)\]
+
+  Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu
+
+- \[[arXiv](https://arxiv.org/abs/2409.15342)\] **Recall: Empowering Multimodal Embedding for Edge Devices** \[[pdf](pdf/arXiv-Recall.pdf)\]
+
+  **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Mengwei Xu
+
+- \[[NeurIPS'24](https://neurips.cc/Conferences/2024)\] **SILENCE: Protecting privacy in offloaded speech understanding on wimpy devices** \[[pdf](pdf/main-NeurIPS24-SILENCE.pdf)\]
+
+  **Dongqi Cai**, Shangguang Wang, Zeling Zhang, Felix Xiaozhu Lin, Mengwei Xu
+
 <!-- - \[arXiv\] **A Survey of Backpropagation-free Training For LLMs** \[[pdf](pdf/arXiv-Fwd-Survey.pdf)\] 
 
   Hanzi Mei, **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Mengwei Xu -->
