@@ -67,13 +67,16 @@ Email: cdq AT bupt DOT edu DOT cn
   **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
 
 
-## Internship&Experience
+## Visiting & Internship
 - \[[University of Cambridge](https://fate.readthedocs.io/en/latest/)\] 09/2024 - 09/2025, Visiting PhD Student. 
 
   Advisor: [Prof. Nicholas D. Lane](http://niclane.org)
 - \[[WeBank](https://www.webank.com/en/)\] 07/2021 - 12/2021, AI Researcher on Federated Learning. 
 
   Mentor: [Dr. Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
+
+## Teaching Experience
+- Teaching Assistant, Principles of Machine Learning Systems, Cambridge (Autumn 2024)
 
 ## Academic Service
 - PC member: \[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
