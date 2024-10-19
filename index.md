@@ -85,6 +85,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
 
 ## Awards
+- [Scholar Award] 2024, NeurIPS
 - [CSC Scholarship] 2024, China Scholarship Council
 - [Travel Grant] 2024, EuroSys/MobiSys/ATC
 - [National Scholarship] 2023, Ministry of Education
