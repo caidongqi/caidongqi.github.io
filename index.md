@@ -36,7 +36,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Mengwei Xu
 
-- \[[NeurIPS'24](https://neurips.cc/Conferences/2024)\] **SILENCE: Protecting privacy in offloaded speech understanding on wimpy devices** \[[pdf](pdf/main-NeurIPS24-SILENCE.pdf)\]
+- \[[NeurIPS'24](https://neurips.cc/virtual/2024/poster/93343)\] **SILENCE: Protecting privacy in offloaded speech understanding on wimpy devices** \[[pdf](pdf/main-NeurIPS24-SILENCE.pdf)\]
 
   **Dongqi Cai**, Shangguang Wang, Zeling Zhang, Felix Xiaozhu Lin, Mengwei Xu
 
@@ -44,7 +44,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Hanzi Mei, **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Mengwei Xu -->
 
-- \[[USENIX ATC'24](https://www.usenix.org/conference/atc24)\] **FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences** \[[pdf](pdf/ATC24-FwdLLM.pdf)\] \[[code](https://github.com/UbiquitousLearning/FwdLLM)\]  \[[slides](slides/ATC-FwdlLM.pdf)\]
+- \[[USENIX ATC'24](https://www.usenix.org/conference/atc24/presentation/xu-mengwei)\] **FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences** \[[pdf](pdf/ATC24-FwdLLM.pdf)\] \[[code](https://github.com/UbiquitousLearning/FwdLLM)\]  \[[slides](slides/ATC-FwdlLM.pdf)\]
 
   Mengwei Xu, **Dongqi Cai\***, Yaozong Wu, Xiang Li, Shangguang Wang 
 
