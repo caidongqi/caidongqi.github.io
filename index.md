@@ -24,10 +24,6 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/) and immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/) -->
 
 ## Selected Publications (*=Co-first/Corr. Author)
-- \[[arXiv](https://arxiv.org/abs/2401.08092)\] **A Survey of Resource-Efficient LLM and Multimodal Foundation Models** \[[pdf](pdf/arXiv-Efficient-LLM.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
-
-  Mengwei Xu, Wangsong Yin, **Dongqi Cai**, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
-
 - \[[arXiv](https://arxiv.org/abs/2401.08092)\] **Small Language Models: Survey, Measurements, and Insights** \[[pdf](pdf/arXiv-SLM-survey.pdf)\] \[[leader board](https://github.com/UbiquitousLearning/SLM_Survey)\]
 
   Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu
@@ -35,6 +31,10 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[[arXiv](https://arxiv.org/abs/2409.15342)\] **Recall: Empowering Multimodal Embedding for Edge Devices** \[[pdf](pdf/arXiv-Recall.pdf)\]
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Mengwei Xu
+
+- \[[ACM Computing Surveys](https://dl.acm.org/journal/csur)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/arXiv-Efficient-LLM.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
+
+  Mengwei Xu\*, **Dongqi Cai\***, Wangsong Yin\*, Shangguang Wang, Xin Jin, Xuanzhe Liu
 
 - \[[NeurIPS'24](https://neurips.cc/virtual/2024/poster/93343)\] **SILENCE: Protecting Privacy in Offloaded Speech Understanding on Resource-constrained Devices** \[[pdf](pdf/main-NeurIPS24-SILENCE.pdf)\]
 
