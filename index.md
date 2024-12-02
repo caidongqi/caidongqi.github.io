@@ -49,7 +49,7 @@ Email: cdq AT bupt DOT edu DOT cn
   Mengwei Xu, **Dongqi Cai\***, Yaozong Wu, Xiang Li, Shangguang Wang 
 
 
-- \[[MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3649361)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] \[[code](https://github.com/UbiquitousLearning/MobileFM)\] 
+- \[[MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3649361)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] \[[code](https://github.com/UbiquitousLearning/MobileFM)\]  \[[slides](slides/Mobicom24-M4.pdf)\]
 
   Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
