@@ -32,7 +32,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Mengwei Xu
 
-- \[[ACM Computing Surveys](https://dl.acm.org/journal/csur)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/arXiv-Efficient-LLM.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
+- \[[ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3706418)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/arXiv-Efficient-LLM.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
   Mengwei Xu\*, **Dongqi Cai\***, Wangsong Yin\*, Shangguang Wang, Xin Jin, Xuanzhe Liu
 
