@@ -36,7 +36,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu\*, **Dongqi Cai\***, Wangsong Yin\*, Shangguang Wang, Xin Jin, Xuanzhe Liu
 
-- \[[NeurIPS'24](https://neurips.cc/virtual/2024/poster/93343)\] **SILENCE: Protecting Privacy in Offloaded Speech Understanding on Resource-constrained Devices** \[[pdf](pdf/main-NeurIPS24-SILENCE.pdf)\]
+- \[[NeurIPS'24](https://neurips.cc/virtual/2024/poster/93343)\] **SILENCE: Protecting Privacy in Offloaded Speech Understanding on Resource-constrained Devices** \[[pdf](pdf/main-NeurIPS24-SILENCE.pdf)\] \[[slides](slides/NeurIPS24-silence-slides.pdf)\]
 
   **Dongqi Cai**, Shangguang Wang, Zeling Zhang, Felix Xiaozhu Lin, Mengwei Xu
 
