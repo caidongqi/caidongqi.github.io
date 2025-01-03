@@ -84,7 +84,8 @@ Email: cdq AT bupt DOT edu DOT cn
 - External reviewer: \[[MLSys'25](https://mlsys.org/Conferences/2025)\]  \[[ICWS'24](https://conferences.computer.org/icws/2024/)\] \[[IEEE EDGE'24](https://conferences.computer.org/edge/2024/)\]  \[[IEEE EDGE'23](https://conferences.computer.org/edge/2023/)\] \[[ICWS'23](https://conferences.computer.org/icws/2023/)\] \[[EIS'21](https://www.embedded-ai.org/2021/index2.html)\]
 
 
-## Awards
+## Awards & Honors
+- [Young Elite Scientists Sponsorship: PhD student Special Program] 2025, CAST
 - [National Scholarship] 2024, Ministry of Education
 - [Scholar Award] 2024, NeurIPS
 - [CSC Scholarship] 2024, China Scholarship Council
@@ -93,7 +94,6 @@ Email: cdq AT bupt DOT edu DOT cn
 - [Outstanding Graduate Student] 2023, BUPT
 - [Excellent Ph.D. Students Foundation] 2023, BUPT
 - [Outstanding Graduate Student] 2022/2023, State Key Laboratory of Networking and Switching Technology
-- [First-class academic scholarship] 2022, BUPT
 
 ## Materials
 - \[[Paper List: Backpropagation Free Training Survey](https://github.com/UbiquitousLearning/Backpropagation_Free_Training_Survey)\]
