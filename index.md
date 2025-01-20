@@ -24,9 +24,9 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/) and immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/) -->
 
 ## Selected Publications (*=Co-first/Corr. Author)
-- \[[arXiv](https://arxiv.org/abs/2409.15790)\] **Small Language Models: Survey, Measurements, and Insights** \[[pdf](pdf/arXiv-SLM-survey.pdf)\] \[[leader board](https://github.com/UbiquitousLearning/SLM_Survey)\]
+<!-- - \[[arXiv](https://arxiv.org/abs/2409.15790)\] **Small Language Models: Survey, Measurements, and Insights** \[[pdf](pdf/arXiv-SLM-survey.pdf)\] \[[leader board](https://github.com/UbiquitousLearning/SLM_Survey)\]
 
-  Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu
+  Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu -->
 
 - \[[arXiv](https://arxiv.org/abs/2409.15342)\] **Recall: Empowering Multimodal Embedding for Edge Devices** \[[pdf](pdf/arXiv-Recall.pdf)\]
 
