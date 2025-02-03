@@ -28,9 +28,9 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu -->
 
-- \[[arXiv](https://arxiv.org/abs/2409.15342)\] **Recall: Empowering Multimodal Embedding for Edge Devices** \[[pdf](pdf/arXiv-Recall.pdf)\]
+- \[[Research Square](https://www.researchsquare.com/article/rs-5686668/v1)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/research-square-recall.pdf)\]
 
-  **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Mengwei Xu
+  **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Nicholas Lane, Mengwei Xu
 
 - \[[ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3706418)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/CSUR25-llm-survey.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
