@@ -32,6 +32,10 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Nicholas Lane, Mengwei Xu
 
+- \[[IEEE TBD'24](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
+
+  **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
+  
 - \[[ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3706418)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/CSUR25-llm-survey.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
   Mengwei Xu\*, **Dongqi Cai\***, Wangsong Yin\*, Shangguang Wang, Xin Jin, Xuanzhe Liu
@@ -61,10 +65,6 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
-
-- \[[IEEE TBD'22](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
-
-  **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
 
 
 ## Visiting & Internship
