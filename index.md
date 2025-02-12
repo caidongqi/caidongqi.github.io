@@ -76,7 +76,7 @@ Email: cdq AT bupt DOT edu DOT cn
   Mentor: [Dr. Lixin Fan](https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en)
 
 ## Teaching Experience
-- Teaching Assistant, Principles of Machine Learning Systems, Cambridge (Autumn 2024)
+- Teaching Assistant, Principles of Machine Learning Systems, Cambridge (Michaelmas Term 2024)
 
 ## Academic Service
 - PC member: \[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
