@@ -98,9 +98,7 @@ Email: cdq AT bupt DOT edu DOT cn
 - [Outstanding Graduate Student] 2022/2023, State Key Laboratory of Networking and Switching Technology
 
 ## Materials
-<!-- - \[[Paper List: Backpropagation Free Training Survey](https://github.com/UbiquitousLearning/Backpropagation_Free_Training_Survey)\] -->
 - \[[Paper List: Resource Efficient Large Language Model](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
-<!-- - \[[Paper List: Edge AI](https://github.com/xumengwei/Edge-AI-Paper-List)\] -->
 - \[[Tutorial: Federated Learning with Google](https://federated.withgoogle.com/)\]
 - \[[Tutorial: THE ELEMENTS OF STYLE (4th edition)](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)\]
 
