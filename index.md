@@ -53,7 +53,7 @@ Email: cdq AT bupt DOT edu DOT cn
   Mengwei Xu, **Dongqi Cai\***, Yaozong Wu, Xiang Li, Shangguang Wang 
 
 
-- \[[MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3649361)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] \[[code](https://github.com/UbiquitousLearning/MobileFM)\]  \[[slides](slides/Mobicom24-M4.pdf)\]
+- \[[MobiCom'24](https://dl.acm.org/doi/10.1145/3636534.3649361)] **Mobile Foundation Model as Firmware** \[[pdf](pdf/MobiCom24-M4.pdf)\] \[[code](https://github.com/UbiquitousLearning/MobileFM)\]  \[[slides](slides/Mobicom24-M4.pdf)\] \[[Distinguished Artifact Award Nomination](awards/Mobicom24-M4-ae-nomination.pdf)\]
 
   Jinliang Yuan\*, Chen Yang\*, **Dongqi Cai\***, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
@@ -87,6 +87,7 @@ Email: cdq AT bupt DOT edu DOT cn
 ## Awards & Honors
 - [Young Elite Scientists Sponsorship: PhD student Special Program] 2025, CAST
 - [National Scholarship] 2024, Ministry of Education
+- [Distinguished Artifact Nomination] 2024, MobiCom (~9 out of 494 submission, ~1.8%)
 - [Scholar Award] 2024, NeurIPS
 - [CSC Scholarship] 2024, China Scholarship Council
 - [Travel Grant] 2024, EuroSys/MobiSys/ATC
