@@ -97,10 +97,10 @@ Email: cdq AT bupt DOT edu DOT cn
 - [Excellent Ph.D. Students Foundation] 2023, BUPT
 - [Outstanding Graduate Student] 2022/2023, State Key Laboratory of Networking and Switching Technology
 
-## Materials
+<!-- ## Materials
 - \[[Paper List: Resource Efficient Large Language Model](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 - \[[Tutorial: Federated Learning with Google](https://federated.withgoogle.com/)\]
-- \[[Tutorial: THE ELEMENTS OF STYLE (4th edition)](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)\]
+- \[[Tutorial: THE ELEMENTS OF STYLE (4th edition)](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)\] -->
 
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hGMQELFVCVHYkSQv-kV-_0B1VR5arff9AGbJVDZVhS8"></script>
