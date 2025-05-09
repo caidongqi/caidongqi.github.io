@@ -2,7 +2,7 @@
 <!-- Potential English Name: Kenny, Leo, Jasper -->
  <!-- Jasper is a gemstone associated with peace and tranquility. The name could symbolize the serene and beautiful moment captured in the phrase, connecting to the earthly yet ethereal nature of such a state. -->
 
-I'm a 4th-year PhD student in 
+I'm a 4th-year PhD student at 
 [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). 
 Currently, I am visiting the [University of Cambridge](https://www.cam.ac.uk) under the supervision of [Prof. Nicholas D. Lane](http://niclane.org).
 Additionally, I feel fortunate to receive remote guidance from [Prof. Felix Xiaozhu Lin](https://fxlin.github.io/) in the development of efficient mobile systems.
@@ -28,7 +28,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu -->
 
-- \[[Research Square](https://www.researchsquare.com/article/rs-5686668/v1)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/research-square-recall.pdf)\]
+- \[[Nature Communications (Accept in principle)](https://www.researchsquare.com/article/rs-5686668/v1)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/research-square-recall.pdf)\]
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Nicholas Lane, Mengwei Xu
 
