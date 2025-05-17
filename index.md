@@ -2,7 +2,7 @@
 <!-- Potential English Name: Kenny, Leo, Jasper -->
  <!-- Jasper is a gemstone associated with peace and tranquility. The name could symbolize the serene and beautiful moment captured in the phrase, connecting to the earthly yet ethereal nature of such a state. -->
 
-I'm a 4th-year PhD student at 
+I'm a final-year PhD student at 
 [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). 
 Currently, I am visiting the [University of Cambridge](https://www.cam.ac.uk) under the supervision of [Prof. Nicholas D. Lane](http://niclane.org).
 Additionally, I feel fortunate to receive remote guidance from [Prof. Felix Xiaozhu Lin](https://fxlin.github.io/) in the development of efficient mobile systems.
