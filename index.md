@@ -7,7 +7,7 @@ I'm a 4th-year PhD student at
 Currently, I am visiting the [University of Cambridge](https://www.cam.ac.uk) under the supervision of [Prof. Nicholas D. Lane](http://niclane.org).
 Additionally, I feel fortunate to receive remote guidance from [Prof. Felix Xiaozhu Lin](https://fxlin.github.io/) in the development of efficient mobile systems.
 <!-- Starting from September,  -->
-Here is my [Curriculum Vitae](/materials/cv-cdq.pdf).
+Here is my Curriculum Vitae ([EN](/materials/cv-cdq.pdf)/[CN](/materials/cv-cdq-full.pdf)).
 
 <!-- [State Key Laboratory of Networking and Switching Technology](https://sklnst.bupt.edu.cn/), [Computer Science Department](https://scs.bupt.edu.cn/),  -->
 
