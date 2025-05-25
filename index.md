@@ -36,9 +36,9 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Mengwei Xu\*, **Dongqi Cai\***, Wangsong Yin\*, Shangguang Wang, Xin Jin, Xuanzhe Liu
 
-- \[[ACL'25](https://openreview.net/forum?id=qRhhT1BoUq#discussion)\] **Demystifying Small Language Models for Edge Deployment** \[[pdf](pdf/ACL25-SLM)\] \[[arXiv](https://arxiv.org/pdf/2409.15790?)\] \[[leader board](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/#/slm)\] 
+- \[[ACL'25](https://openreview.net/forum?id=qRhhT1BoUq#discussion)\] **Demystifying Small Language Models for Edge Deployment** \[[pdf](pdf/ACL25-SLM.pdf)\] \[[arXiv](https://arxiv.org/pdf/2409.15790?)\] \[[leader board](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/#/slm)\] 
 
-  Zhenyan Lu, Xiang Li, **Dongqi Cai\***, Rongjie Yi, Fangming Liu, Wei Liu, Jian Luan, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu
+  Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Wei Liu, Jian Luan, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu
 
 - \[[IEEE TBD'24](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
 
