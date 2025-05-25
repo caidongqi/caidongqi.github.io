@@ -32,9 +32,13 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Nicholas Lane, Mengwei Xu
 
-- \[[ACM Computing Surveys'25](https://dl.acm.org/doi/10.1145/3706418)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/CSUR25-llm-survey.pdf)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
+- \[[ACM Computing Surveys'25](https://dl.acm.org/doi/10.1145/3706418)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/CSUR25-llm-survey.pdf)\] \[[arXiv](https://arxiv.org/pdf/2401.08092)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
   Mengwei Xu\*, **Dongqi Cai\***, Wangsong Yin\*, Shangguang Wang, Xin Jin, Xuanzhe Liu
+
+- \[[ACL'25](https://openreview.net/forum?id=qRhhT1BoUq#discussion)\] **Demystifying Small Language Models for Edge Deployment** \[[pdf](pdf/ACL25-SLM)\] \[[arXiv](https://arxiv.org/pdf/2409.15790?)\] \[[leader board](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/#/slm)\] 
+
+  Zhenyan Lu, Xiang Li, **Dongqi Cai\***, Rongjie Yi, Fangming Liu, Wei Liu, Jian Luan, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu
 
 - \[[IEEE TBD'24](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
 
