@@ -28,7 +28,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu -->
 
-- \[[Nature Communications (Accept in principle)](https://www.researchsquare.com/article/rs-5686668/v1)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/research-square-recall.pdf)\]
+- \[[Nature Communications](https://www.researchsquare.com/article/rs-5686668/v1)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/research-square-recall.pdf)\]
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Nicholas Lane, Mengwei Xu
 
