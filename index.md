@@ -28,9 +28,9 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu -->
 
-- \[[Nature Communications](https://www.researchsquare.com/article/rs-5686668/v1)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/research-square-recall.pdf)\]
+- \[[Nature Communications'25](https://doi.org/10.1038/s41467-025-60802-5)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/NC25-Reminisce-article.pdf)\][[supplementary](pdf/NC25-Reminisce-supplementary.pdf)\][[peer review](pdf/NC25-Reminisce-review.pdf)\]
 
-  **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Nicholas Lane, Mengwei Xu
+  **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Zhenyan Lu, Tao Qi, Nicholas Lane, Mengwei Xu
 
 - \[[ACM Computing Surveys'25](https://dl.acm.org/doi/10.1145/3706418)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/CSUR25-llm-survey.pdf)\] \[[arXiv](https://arxiv.org/pdf/2401.08092)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
