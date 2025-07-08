@@ -89,9 +89,10 @@ Email: cdq AT bupt DOT edu DOT cn
 
 
 ## Awards & Honors
+- [Best Poster Award], 2025, MobiUK (1/35)
 - [MobiSys Rising Star], 2025, SigMobile
-- [Young Elite Scientists Sponsorship: PhD student Special Program] 2025, CAST
-- [Travel Grant] EuroSys'24/MobiSys'24/ATC'24/NeurIPS'24/MobiSys'25
+- [Young Elite Scientists Sponsorship: PhD student Special Program] 2024, CAST
+- [Travel Grant] EuroSys'24/MobiSys'24/ATC'24/NeurIPS'24/MobiSys'25/MobiUK'25
 - [National Scholarship] 2024, Ministry of Education
 - [St John’s College Fellow-Sponsored Member], 2024, University of Cambridge
 - [Distinguished Artifact Nomination] 2024, MobiCom (~9 out of 494 submission, ~1.8%)
