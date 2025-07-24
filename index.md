@@ -28,7 +28,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu -->
 
-- \[[Nature Communications'25](https://doi.org/10.1038/s41467-025-60802-5)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/NC25-Reminisce-article.pdf)\][[supplementary](pdf/NC25-Reminisce-supplementary.pdf)\][[peer review](pdf/NC25-Reminisce-review.pdf)\]
+- \[[Nature Communications'25](https://doi.org/10.1038/s41467-025-60802-5)\] **Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System** \[[pdf](pdf/s41467-025-60802.pdf)\][[supplementary](pdf/NC25-Reminisce-supplementary.pdf)\][[peer review](pdf/NC25-Reminisce-review.pdf)\]
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Zhenyan Lu, Tao Qi, Nicholas Lane, Mengwei Xu
 
