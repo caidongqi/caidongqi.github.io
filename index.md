@@ -65,7 +65,7 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Yaozong Wu, Felix Xiaozhu Lin, Mengwei Xu
 
-- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3592505)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/MobiCom23-FedAdapter.pdf)\] \[[poster](pdf/TURC-FedAdapter.pdf)\] \[[slides](slides/MobiCom-AdaFL-bk.pdf)\] \[[code](https://github.com/UbiquitousLearning/FedAdapter)\] 
+- \[[MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3592505)\] **Efficient Federated Learning for Modern NLP** \[[pdf](pdf/MobiCom23-FedAdapter.pdf)\] \[[poster](pdf/TURC-FedAdapter.pdf)\] \[[slides](slides/MobiCom-AdaFL-bk.pdf)\] \[[code](https://github.com/UbiquitousLearning/FedAdapter)\] \[[Most Cited Paper of MobiCom'23 (1/91)](https://scholar.google.com.ec/citations?hl=en&view_op=list_hcore&venue=CYo1GjC2fW8J.2025&cstart=20)\]
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
@@ -83,7 +83,7 @@ Email: cdq AT bupt DOT edu DOT cn
 - Teaching Assistant, Principles of Machine Learning Systems, Cambridge (Michaelmas Term 2024)
 
 ## Academic Service
-- PC member: \[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
+- PC member: \[[EIS'25](https://embedded-ai.org/2025/)]\[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
 - Reviewer:  [[Scientific Reports](https://www.nature.com/srep/)\] \[[TSC](https://ieeexplore.ieee.org/document/4688915)\] \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] \[[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\] \[[TECS](https://dl.acm.org/journal/tecs)\] [[IoTJ](https://ieee-iotj.org/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\] \[[ICASSP'25](https://2025.ieeeicassp.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] 
 - External reviewer: \[[MLSys'25](https://mlsys.org/Conferences/2025)\]  \[[ICWS'24](https://conferences.computer.org/icws/2024/)\] \[[IEEE EDGE'24](https://conferences.computer.org/edge/2024/)\]  \[[IEEE EDGE'23](https://conferences.computer.org/edge/2023/)\] \[[ICWS'23](https://conferences.computer.org/icws/2023/)\] \[[EIS'21](https://www.embedded-ai.org/2021/index2.html)\]
 
