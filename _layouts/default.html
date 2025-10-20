@@ -10,6 +10,36 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    
+    <!-- 图片优化和性能提升 -->
+    <style>
+      /* 图片懒加载样式 */
+      img[data-src] {
+        opacity: 0;
+        transition: opacity 0.3s;
+      }
+      img[data-src].loaded {
+        opacity: 1;
+      }
+      
+      /* 响应式图片 */
+      .responsive-img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+      
+      /* 加载占位符 */
+      .img-placeholder {
+        background: #f0f0f0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #666;
+        min-height: 200px;
+      }
+    </style>
+    
     {% include head-custom.html %}
   </head>
   <body>
@@ -18,7 +48,10 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <picture>
+            <source srcset="{{site.logo | relative_url | replace: '.JPG', '.webp' | replace: '.jpg', '.webp'}}" type="image/webp">
+            <img src="{{site.logo | relative_url}}" alt="Logo" class="responsive-img" loading="eager" />
+          </picture>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -60,5 +93,77 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    
+    <!-- 图片懒加载和性能优化脚本 -->
+    <script>
+      // 图片懒加载
+      function lazyLoadImages() {
+        const images = document.querySelectorAll('img[data-src]');
+        const imageObserver = new IntersectionObserver((entries, observer) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              const img = entry.target;
+              img.src = img.dataset.src;
+              img.classList.remove('lazy');
+              img.classList.add('loaded');
+              observer.unobserve(img);
+            }
+          });
+        });
+
+        images.forEach(img => imageObserver.observe(img));
+      }
+
+      // 响应式图片加载
+      function loadResponsiveImages() {
+        const pictures = document.querySelectorAll('picture');
+        pictures.forEach(picture => {
+          const sources = picture.querySelectorAll('source');
+          const img = picture.querySelector('img');
+          
+          if (sources.length > 0 && img) {
+            // 检查浏览器是否支持WebP
+            const webpSupported = document.createElement('canvas').toDataURL('image/webp').indexOf('data:image/webp') === 0;
+            
+            if (webpSupported) {
+              sources.forEach(source => {
+                if (source.type === 'image/webp') {
+                  img.src = source.srcset;
+                }
+              });
+            }
+          }
+        });
+      }
+
+      // 预加载关键图片
+      function preloadCriticalImages() {
+        const logo = document.querySelector('header img');
+        if (logo) {
+          const link = document.createElement('link');
+          link.rel = 'preload';
+          link.as = 'image';
+          link.href = logo.src;
+          document.head.appendChild(link);
+        }
+      }
+
+      // 页面加载完成后执行
+      document.addEventListener('DOMContentLoaded', function() {
+        lazyLoadImages();
+        loadResponsiveImages();
+        preloadCriticalImages();
+      });
+
+      // 性能监控
+      if ('performance' in window) {
+        window.addEventListener('load', function() {
+          setTimeout(function() {
+            const perfData = performance.getEntriesByType('navigation')[0];
+            console.log('页面加载时间:', perfData.loadEventEnd - perfData.loadEventStart, 'ms');
+          }, 0);
+        });
+      }
+    </script>
   </body>
 </html>

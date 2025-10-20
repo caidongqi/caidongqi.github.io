@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Dongqi's Homepage
-logo: /picture/cdq-cambridge.JPG
+logo: /picture/optimized/cdq-cambridge.webp
 google_analytics: G-8VEK942CH3
 plugins:
   - jekyll-last-modified-at

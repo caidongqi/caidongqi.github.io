@@ -4,7 +4,7 @@
 
 I'm a final-year PhD student at 
 [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). 
-Currently, I am visiting the [University of Cambridge](https://www.cam.ac.uk) under the supervision of [Prof. Nicholas D. Lane](http://niclane.org).
+I was a visiting PhD student at the [University of Cambridge](https://www.cam.ac.uk) from September 2024 to September 2025, under the supervision of [Prof. Nicholas D. Lane](http://niclane.org).
 Additionally, I feel fortunate to receive remote guidance from [Prof. Felix Xiaozhu Lin](https://fxlin.github.io/) in the development of efficient mobile systems.
 <!-- Starting from September,  -->
 Here is my Curriculum Vitae ([EN](/materials/cv-cdq-full.pdf)/[CN](/materials/cv-cdq-full-cn.pdf)).
