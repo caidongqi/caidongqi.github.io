@@ -21,6 +21,7 @@ Email: cdq AT bupt DOT edu DOT cn
 - \[2025-06\] Our paper on Efficient Multimodal Embedding was published in [Nature Communications](https://doi.org/10.1038/s41467-025-60802-5)
 - \[2025-06\] Honored to be selected as a [MobiSys 2025 Rising Star](https://dl.acm.org/doi/10.1145/3711875.3736664)
 - \[2025-01\] Invited to deliver a seminar speech at [Cambridge ML Systems Seminar Series](https://talks.cam.ac.uk/talk/index/226192)
+
 <!-- - \[2024-05\] Paper on Forward-only FL was accepted by [ATC'24](https://www.usenix.org/conference/atc24)
 - \[2024-04\] Invited to deliver a keynote speech at CCF Talk series
 - \[2024-03\] Glad to serve as part of the [Artifact Evaluation PC](https://mobisys24ae.hotcrp.com/users/pc) at [MobiSys'24](https://www.sigmobile.org/mobisys/2024/) 
