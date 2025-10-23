@@ -15,8 +15,13 @@ Here is my Curriculum Vitae ([EN](/materials/cv-cdq-full.pdf)/[CN](/materials/cv
 
 Email: cdq AT bupt DOT edu DOT cn
 
-<!-- ## News!
-- \[2024-05\] Paper on Forward-only FL was accepted by [ATC'24](https://www.usenix.org/conference/atc24)
+## News!
+- \[2025-10\] Honored to serve on the Technical Program Committee at [MobiSys'26](https://www.sigmobile.org/mobisys/2026/) 
+- \[2025-07\] Our work on Efficient Model Editing received the Best Poster Award at [MobiUK](awards/mobiuk%20best%20poster.pdf)
+- \[2025-06\] Our paper on Efficient Multimodal Embedding was published in [Nature Communications](https://doi.org/10.1038/s41467-025-60802-5)
+- \[2025-06\] Honored to be selected as a [MobiSys 2025 Rising Star](https://dl.acm.org/doi/10.1145/3711875.3736664)
+- \[2025-01\] Invited to deliver a seminar speech at [Cambridge ML Systems Seminar Series](https://talks.cam.ac.uk/talk/index/226192)
+<!-- - \[2024-05\] Paper on Forward-only FL was accepted by [ATC'24](https://www.usenix.org/conference/atc24)
 - \[2024-04\] Invited to deliver a keynote speech at CCF Talk series
 - \[2024-03\] Glad to serve as part of the [Artifact Evaluation PC](https://mobisys24ae.hotcrp.com/users/pc) at [MobiSys'24](https://www.sigmobile.org/mobisys/2024/) 
 - \[2024-02\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) at [MobiCom'24](https://www.sigmobile.org/mobicom/2024/) 
@@ -83,7 +88,7 @@ Email: cdq AT bupt DOT edu DOT cn
 - Teaching Assistant, Principles of Machine Learning Systems, Cambridge (Michaelmas Term 2024)
 
 ## Academic Service
-- PC member: \[[EIS'25](https://embedded-ai.org/2025/)]\[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
+- PC member: \[[MobiSys'2026](https://www.sigmobile.org/mobisys/2026/)]\[[EIS'25](https://embedded-ai.org/2025/)]\[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
 - Reviewer:  [[Scientific Reports](https://www.nature.com/srep/)\] \[[TSC](https://ieeexplore.ieee.org/document/4688915)\] \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] \[[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\] \[[TECS](https://dl.acm.org/journal/tecs)\] [[IoTJ](https://ieee-iotj.org/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\] \[[ICASSP'25](https://2025.ieeeicassp.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] 
 - External reviewer: \[[MLSys'25](https://mlsys.org/Conferences/2025)\]  \[[ICWS'24](https://conferences.computer.org/icws/2024/)\] \[[IEEE EDGE'24](https://conferences.computer.org/edge/2024/)\]  \[[IEEE EDGE'23](https://conferences.computer.org/edge/2023/)\] \[[ICWS'23](https://conferences.computer.org/icws/2023/)\] \[[EIS'21](https://www.embedded-ai.org/2021/index2.html)\]
 
