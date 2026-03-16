@@ -3,7 +3,7 @@
 I'm an incoming Assistant Professor at the **[Nanjing University](https://is.nju.edu.cn/)**.
 Previously, I obtained my Ph.D. from [BUPT](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). Meanwhile, I work closely with [Prof. Felix Xiaozhu Lin](https://fxlin.github.io/). I was a visiting scholar at the [University of Cambridge](https://www.cam.ac.uk) from 2024 to 2025, working with [Prof. Nicholas D. Lane](http://niclane.org).
 
-My research focuses on **resource-efficient AI systems**, particularly on **on-device large model training**, **distributed/federated learning**, and **embodied AI systems**. I have published papers in top-tier venues including *Nature Communications*, *MobiCom*, *NeurIPS*, *USENIX ATC*, etc. I am a recipient of the **ACM MobiSys 2025 Rising Star** award and the **MobiUK 2025 Best Poster Award**.
+<!-- My research focuses on **resource-efficient AI systems**, particularly on **on-device large model training**, **distributed/federated learning**, and **embodied AI systems**. I have published papers in top-tier venues including *Nature Communications*, *MobiCom*, *NeurIPS*, *USENIX ATC*, etc. I am a recipient of the **ACM MobiSys 2025 Rising Star** award and the **MobiUK 2025 Best Poster Award**. -->
 
 **📢 I'm actively looking for self-motivated PhD students, Master students, and research interns. If you are interested in efficient AI systems and embodied intelligence, please feel free to contact me!**
 
