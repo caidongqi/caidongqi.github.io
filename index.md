@@ -1,33 +1,38 @@
 ## Dongqi Cai (蔡栋琪)
-<!-- Potential English Name: Kenny, Leo, Jasper -->
- <!-- Jasper is a gemstone associated with peace and tranquility. The name could symbolize the serene and beautiful moment captured in the phrase, connecting to the earthly yet ethereal nature of such a state. -->
 
-I'm a final-year PhD student at 
-[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). 
-I was a visiting PhD student at the [University of Cambridge](https://www.cam.ac.uk) from September 2024 to September 2025, under the supervision of [Prof. Nicholas D. Lane](http://niclane.org).
-Additionally, I feel fortunate to receive remote guidance from [Prof. Felix Xiaozhu Lin](https://fxlin.github.io/) in the development of efficient mobile systems.
-<!-- Starting from September,  -->
-Here is my Curriculum Vitae ([EN](/materials/cv-cdq-full.pdf)/[CN](/materials/cv-cdq-full-cn.pdf)).
+I'm an incoming **Assistant Professor** at the **[School of Intelligent Science and Technology, Nanjing University](https://is.nju.edu.cn/)**.
+Previously, I obtained my Ph.D. from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), co-advised by [Prof. Mengwei Xu](https://xumengwei.github.io/) and [Prof. Shangguang Wang](http://www.sguangwang.com/). Meanwhile, I work closely with Prof. Felix Xiaozhu Lin](https://fxlin.github.io/). I was a visiting scholar at the [University of Cambridge](https://www.cam.ac.uk) from September 2024 to September 2025, working with [Prof. Nicholas D. Lane](http://niclane.org).
 
-<!-- [State Key Laboratory of Networking and Switching Technology](https://sklnst.bupt.edu.cn/), [Computer Science Department](https://scs.bupt.edu.cn/),  -->
+My research focuses on **resource-efficient AI systems**, particularly on **on-device large model training**, **distributed/federated learning**, and **embodied AI systems**. I have published papers in top-tier venues including *Nature Communications*, *MobiCom*, *NeurIPS*, *USENIX ATC*, etc. I am a recipient of the **ACM MobiSys 2025 Rising Star** award and the **MobiUK 2025 Best Poster Award**.
 
-<!-- I got my B.S. degree from [BUPT](https://www.bupt.edu.cn/) in 2021. -->
+**📢 I'm actively looking for self-motivated PhD students, Master students, and research interns. If you are interested in efficient AI systems and embodied intelligence, please feel free to contact me!**
 
-Email: cdq AT bupt DOT edu DOT cn
+Email: nju DOT cdq AT gmail DOT com
+
+<!-- Here is my Curriculum Vitae ([EN](/materials/cv-cdq-full.pdf)/[CN](/materials/cv-cdq-full-cn.pdf)). -->
+
+Here is my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf).
+
+---
+
+## Research Interests
+
+- **On-device Learning**: Zero-order optimization, memory-efficient training, edge AI
+- **Distributed AI Systems**: Federated learning, multi-agent collaboration, embodied intelligence
+- **Resource-Constrained AI**: Mobile computing, IoT systems, drone/robot intelligence
+
+---
 
 ## News!
-- \[2025-10\] Honored to serve on the Technical Program Committee at [MobiSys'26](https://www.sigmobile.org/mobisys/2026/) 
-- \[2025-07\] Our work on Efficient Model Editing received the Best Poster Award at [MobiUK](awards/mobiuk%20best%20poster.pdf)
-- \[2025-06\] Our paper on Efficient Multimodal Embedding was published in [Nature Communications](https://doi.org/10.1038/s41467-025-60802-5)
-- \[2025-06\] Honored to be selected as a [MobiSys 2025 Rising Star](https://dl.acm.org/doi/10.1145/3711875.3736664)
-- \[2025-01\] Invited to deliver a seminar speech at [Cambridge ML Systems Seminar Series](https://talks.cam.ac.uk/talk/index/226192)
-
-<!-- - \[2024-05\] Paper on Forward-only FL was accepted by [ATC'24](https://www.usenix.org/conference/atc24)
-- \[2024-04\] Invited to deliver a keynote speech at CCF Talk series
-- \[2024-03\] Glad to serve as part of the [Artifact Evaluation PC](https://mobisys24ae.hotcrp.com/users/pc) at [MobiSys'24](https://www.sigmobile.org/mobisys/2024/) 
-- \[2024-02\] Glad to serve as part of the [Artifact Evaluation PC](https://mobicom24ae.hotcrp.com/users/pc) at [MobiCom'24](https://www.sigmobile.org/mobicom/2024/) 
-- \[2023-11\] Paper on mobile foundation model was conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)
-- \[2023-10\] Honored to present two papers at [MobiCom'23](https://www.sigmobile.org/mobicom/2023/) and immensely grateful for the mentorship from [Marco Gruteser](https://www.winlab.rutgers.edu/~gruteser/) -->
+- **[2026-03]** 🔥 **I will join the School of Intelligent Science and Technology, Nanjing University as an Assistant Professor!** Welcome to contact me for potential collaborations!
+- **[2026-03]** Our paper about accelerating forward-only federated LLMs has been accepted by [IEEE Transactions on Mobile Computing (TMC)]!
+- **[2026-02]** Our paper about auditing unauthorized training data from AIGC was published in [Nature Communications](https://www.nature.com/ncomms/)
+- **[2026-01]** Our paper about knowledge editing for on-device LLMs has been accepted by [ICLR‘26](https://iclr.cc/Conferences/2026)
+- **[2025-10]** Honored to serve on the Technical Program Committee at [MobiSys'26](https://www.sigmobile.org/mobisys/2026/)
+- **[2025-07]** Our work on Efficient Model Editing received the **Best Poster Award** at [MobiUK](awards/mobiuk%20best%20poster.pdf)
+- **[2025-06]** Our paper on Efficient Multimodal Embedding was published in [Nature Communications](https://doi.org/10.1038/s41467-025-60802-5)
+- **[2025-05]** Honored to be selected as a [MobiSys 2025 Rising Star](https://dl.acm.org/doi/10.1145/3711875.3736664)
+- **[2025-01]** Invited to deliver a seminar speech at [Cambridge ML Systems Seminar Series](https://talks.cam.ac.uk/talk/index/226192)
 
 ## Selected Publications (*=Co-first/Corr. Author)
 <!-- - \[[arXiv](https://arxiv.org/abs/2409.15790)\] **Small Language Models: Survey, Measurements, and Insights** \[[pdf](pdf/arXiv-SLM-survey.pdf)\] \[[leader board](https://github.com/UbiquitousLearning/SLM_Survey)\]
@@ -38,17 +43,17 @@ Email: cdq AT bupt DOT edu DOT cn
 
   **Dongqi Cai**, Shangguang Wang, Chen Peng, Zeling Zhang, Zhenyan Lu, Tao Qi, Nicholas Lane, Mengwei Xu
 
-- \[[ACM Computing Surveys'25](https://dl.acm.org/doi/10.1145/3706418)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/CSUR25-llm-survey.pdf)\] \[[arXiv](https://arxiv.org/pdf/2401.08092)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
+<!-- - \[[ACM Computing Surveys'25](https://dl.acm.org/doi/10.1145/3706418)\] **Resource-efficient Algorithms and Systems of Foundation Models: A Survey** \[[pdf](pdf/CSUR25-llm-survey.pdf)\] \[[arXiv](https://arxiv.org/pdf/2401.08092)\] \[[paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
-  Mengwei Xu\*, **Dongqi Cai\***, Wangsong Yin\*, Shangguang Wang, Xin Jin, Xuanzhe Liu
-
+  Mengwei Xu\*, **Dongqi Cai\***, Wangsong Yin\*, Shangguang Wang, Xin Jin, Xuanzhe Liu -->
+<!-- 
 - \[[ACL'25](https://openreview.net/forum?id=qRhhT1BoUq#discussion)\] **Demystifying Small Language Models for Edge Deployment** \[[pdf](pdf/ACL25-SLM.pdf)\] \[[arXiv](https://arxiv.org/pdf/2409.15790?)\] \[[website (leaderboard)](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/#/slm)\] 
 
-  Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Wei Liu, Jian Luan, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu
+  Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Wei Liu, Jian Luan, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu -->
 
-- \[[IEEE TBD'24](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
+<!-- - \[[IEEE TBD'24](https://ieeexplore.ieee.org/document/9835002)\] **Accelerating Vertical Federated Learning** \[[pdf](pdf/TBD22.pdf)\]
 
-  **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang
+  **Dongqi Cai**, Tao Fan, Yan Kang, Lixin Fan, Mengwei XU, Shangguang Wang, Qiang Yang -->
   
 - \[[NeurIPS'24](https://neurips.cc/virtual/2024/poster/93343)\] **SILENCE: Protecting Privacy in Offloaded Speech Understanding on Resource-constrained Devices** \[[pdf](pdf/main-NeurIPS24-SILENCE.pdf)\] \[[slides](slides/NeurIPS24-silence-slides.pdf)\]
 
@@ -100,8 +105,8 @@ Email: cdq AT bupt DOT edu DOT cn
 - [Young Elite Scientists Sponsorship: PhD student Special Program] 2024, CAST
 - [Travel Grant] EuroSys'24/MobiSys'24/ATC'24/NeurIPS'24/MobiSys'25/MobiUK'25
 - [National Scholarship] 2024, Ministry of Education
-- [St John’s College Fellow-Sponsored Member], 2024, University of Cambridge
-- [Distinguished Artifact Nomination] 2024, MobiCom (~9 out of 494 submission, ~1.8%)
+<!-- - [St John’s College Fellow-Sponsored Member], 2024, University of Cambridge -->
+<!-- - [Distinguished Artifact Nomination] 2024, MobiCom (~9 out of 494 submission, ~1.8%) -->
 - [CSC Scholarship] 2024, China Scholarship Council
 - [National Scholarship] 2023, Ministry of Education
 - [Outstanding Graduate Student] 2023, BUPT
