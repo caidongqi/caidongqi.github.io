@@ -25,10 +25,10 @@ Here is my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf).
 
 ## News!
 - **[2026-03]** 🔥 **I will join the School of Intelligent Science and Technology, Nanjing University as an Assistant Professor!** Welcome to contact me for potential collaborations!
-- **[2026-03]** Our paper about accelerating forward-only federated LLMs has been accepted by [IEEE Transactions on Mobile Computing (TMC)]!
-- **[2026-02]** Our paper about auditing unauthorized training data from AIGC was published in [Nature Communications](https://www.nature.com/ncomms/)
+- **[2026-03]** Our paper about accelerating forward-only federated LLMs has been accepted by [TMC](https://ieeexplore.ieee.org/abstract/document/11429542)!
+- **[2026-02]** Our paper about auditing unauthorized training data from AIGC was published in [Nature Communications](https://www.nature.com/articles/s41467-026-68862-x)
 - **[2026-01]** Our paper about knowledge editing for on-device LLMs has been accepted by [ICLR‘26](https://iclr.cc/Conferences/2026)
-- **[2025-10]** Honored to serve on the Technical Program Committee at [MobiSys'26](https://www.sigmobile.org/mobisys/2026/)
+- **[2025-10]** Honored to serve on the Technical Program Committee at [MobiSys'26](https://www.sigmobile.org/mobisys/2026/program_committee/)
 - **[2025-07]** Our work on Efficient Model Editing received the **Best Poster Award** at [MobiUK](awards/mobiuk%20best%20poster.pdf)
 - **[2025-06]** Our paper on Efficient Multimodal Embedding was published in [Nature Communications](https://doi.org/10.1038/s41467-025-60802-5)
 - **[2025-05]** Honored to be selected as a [MobiSys 2025 Rising Star](https://dl.acm.org/doi/10.1145/3711875.3736664)
