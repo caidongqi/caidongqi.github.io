@@ -7,11 +7,11 @@ Previously, I obtained my Ph.D. from [BUPT](https://www.bupt.edu.cn/), co-advise
 
 **📢 I'm actively looking for self-motivated PhD students, Master students, and research interns. If you are interested in efficient AI systems and embodied intelligence, please feel free to contact me!**
 
-Email: nju DOT cdq AT gmail DOT com
+Email: cdq AT nju DOT edu DOT cn
 
 <!-- Here is my Curriculum Vitae ([EN](/materials/cv-cdq-full.pdf)/[CN](/materials/cv-cdq-full-cn.pdf)). -->
 
-Here is my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf).
+Here are my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf) and [中文主页](https://is.nju.edu.cn/cdq/main.htm).
 
 ---
 
@@ -59,9 +59,6 @@ Here is my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf).
 
   **Dongqi Cai**, Shangguang Wang, Zeling Zhang, Felix Xiaozhu Lin, Mengwei Xu
 
-<!-- - \[arXiv\] **A Survey of Backpropagation-free Training For LLMs** \[[pdf](pdf/arXiv-Fwd-Survey.pdf)\] 
-
-  Hanzi Mei, **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Mengwei Xu -->
 
 - \[[USENIX ATC'24](https://www.usenix.org/conference/atc24/presentation/xu-mengwei)\] **FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences** \[[pdf](pdf/ATC24-FwdLLM.pdf)\] \[[code](https://github.com/UbiquitousLearning/FwdLLM)\]  \[[slides](slides/ATC-FwdlLM.pdf)\]
 
