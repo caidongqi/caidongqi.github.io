@@ -117,12 +117,12 @@ Here are my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf) and [中文主页]
 
 ## Office Hours
 
-I hold weekly office hours for course learning, academic research, and career planning consultations. 
+I hold weekly office hours for course learning, academic research, and career planning consultations. Undergraduate students from Nanjing University are welcome to reach out!
 
 - **Time**: Every Wednesday, 2:00 PM – 4:00 PM (Beijing Time)
 - **Location**: West 326, Nanyong Building (南雍楼西326)
 - **Appointment**: Please email me at least one week in advance to schedule
 
-Undergraduate students from Nanjing University are welcome to reach out!
+
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hGMQELFVCVHYkSQv-kV-_0B1VR5arff9AGbJVDZVhS8"></script>
