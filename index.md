@@ -34,7 +34,7 @@ Here are my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf) and [中文主页]
 - **[2025-05]** Honored to be selected as a [MobiSys 2025 Rising Star](https://dl.acm.org/doi/10.1145/3711875.3736664)
 - **[2025-01]** Invited to deliver a seminar speech at [Cambridge ML Systems Seminar Series](https://talks.cam.ac.uk/talk/index/226192)
 
-## Selected Publications (*=Co-first/Corr. Author)
+## Selected Publications (*=Co-first/Corr. Author) &nbsp;[\[Full List →\]](/publications/)
 <!-- - \[[arXiv](https://arxiv.org/abs/2409.15790)\] **Small Language Models: Survey, Measurements, and Insights** \[[pdf](pdf/arXiv-SLM-survey.pdf)\] \[[leader board](https://github.com/UbiquitousLearning/SLM_Survey)\]
 
   Zhenyan Lu, Xiang Li, **Dongqi Cai**, Rongjie Yi, Fangming Liu, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu -->
