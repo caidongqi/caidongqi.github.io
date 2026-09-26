@@ -77,6 +77,15 @@
 
       <section>
         {{ content }}
+
+        <!-- ClustrMaps Visitor Globe -->
+        <div class="clustrmaps-container"
+             style="margin-top: 40px; text-align: center;">
+          <script type="text/javascript"
+                  id="clstr_globe"
+                  src="https://clustrmaps.com/globe.js?d=hGMQELFVCVHYkSQv-kV-_0B1VR5arff9AGbJVDZVhS8">
+          </script>
+        </div>
       </section>
 
       <footer>
@@ -104,12 +113,6 @@
             Last updated: {{ site.time | date: "%Y-%m-%d" }}
           {% endif %}
         </p>
-
-        <!-- ClustrMaps Visitor Globe -->
-        <script type="text/javascript"
-                id="clstr_globe"
-                src="https://clustrmaps.com/globe.js?d=hGMQELFVCVHYkSQv-kV-_0B1VR5arff9AGbJVDZVhS8">
-        </script>
       </footer>
 
     </div>
