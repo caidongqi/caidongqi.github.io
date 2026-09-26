@@ -21,9 +21,9 @@ Here are my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf) and [中文主页]
 - **Distributed AI Systems**: Federated learning, multi-agent collaboration, embodied intelligence
 - **Resource-Constrained AI**: Mobile computing, IoT systems, drone/robot intelligence
 
----
+<!-- --- -->
 
-## News!
+<!-- ## News!
 - **[2026-03]** 🔥 **I join the School of Intelligent Science and Technology, Nanjing University as an Assistant Professor!** Welcome to contact me for potential collaborations!
 - **[2026-03]** Our paper about accelerating forward-only federated LLMs has been accepted by [TMC](https://ieeexplore.ieee.org/abstract/document/11429542)!
 - **[2026-02]** Our paper about auditing unauthorized training data from AIGC was published in [Nature Communications](https://www.nature.com/articles/s41467-026-68862-x)
@@ -32,7 +32,7 @@ Here are my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf) and [中文主页]
 - **[2025-07]** Our work on Efficient Model Editing received the **Best Poster Award** at [MobiUK](awards/mobiuk%20best%20poster.pdf)
 - **[2025-06]** Our paper on Efficient Multimodal Embedding was published in [Nature Communications](https://doi.org/10.1038/s41467-025-60802-5)
 - **[2025-05]** Honored to be selected as a [MobiSys 2025 Rising Star](https://dl.acm.org/doi/10.1145/3711875.3736664)
-- **[2025-01]** Invited to deliver a seminar speech at [Cambridge ML Systems Seminar Series](https://talks.cam.ac.uk/talk/index/226192)
+- **[2025-01]** Invited to deliver a seminar speech at [Cambridge ML Systems Seminar Series](https://talks.cam.ac.uk/talk/index/226192) -->
 
 ## Selected Publications (*=Co-first/Corr. Author) &nbsp;[\[Full List →\]](/publications/)
 <!-- - \[[arXiv](https://arxiv.org/abs/2409.15790)\] **Small Language Models: Survey, Measurements, and Insights** \[[pdf](pdf/arXiv-SLM-survey.pdf)\] \[[leader board](https://github.com/UbiquitousLearning/SLM_Survey)\]
@@ -91,12 +91,15 @@ Here are my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf) and [中文主页]
 - Teaching Assistant, Principles of Machine Learning Systems, Cambridge (Michaelmas Term 2024)
 
 ## Academic Service
+- AC: ICLR'27
 - PC member: \[[MobiSys'2026](https://www.sigmobile.org/mobisys/2026/)]\[[EIS'25](https://embedded-ai.org/2025/)]\[[MobiSys'24 AE](https://mobisys24ae.hotcrp.com/)]\[[MobiCom'24 AE](https://mobicom24ae.hotcrp.com/)]\[[TURC-SIGBED-China'23](https://www.acmturc.com/2023/cn/SIGBED_China.html)\] \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
 - Reviewer:  [[Scientific Reports](https://www.nature.com/srep/)\] \[[TSC](https://ieeexplore.ieee.org/document/4688915)\] \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] \[[TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\] \[[TECS](https://dl.acm.org/journal/tecs)\] [[IoTJ](https://ieee-iotj.org/)\] \[[ICASSP'24](https://2024.ieeeicassp.org/)\] \[[ICASSP'25](https://2025.ieeeicassp.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] 
 - External reviewer: \[[MLSys'25](https://mlsys.org/Conferences/2025)\]  \[[ICWS'24](https://conferences.computer.org/icws/2024/)\] \[[IEEE EDGE'24](https://conferences.computer.org/edge/2024/)\]  \[[IEEE EDGE'23](https://conferences.computer.org/edge/2023/)\] \[[ICWS'23](https://conferences.computer.org/icws/2023/)\] \[[EIS'21](https://www.embedded-ai.org/2021/index2.html)\]
 
 
 ## Awards & Honors
+- [ACM Sigmobile China Doctoral Dissertation Award], 2026
+- [BUPT Doctoral Dissertation Award], 2026
 - [Best Poster Award], 2025, MobiUK (1/35)
 - [MobiSys Rising Star], 2025, SigMobile
 - [Young Elite Scientists Sponsorship: PhD student Special Program] 2024, CAST
@@ -123,6 +126,24 @@ I hold weekly office hours for course learning, academic research, and career pl
 - **Location**: West 326, Nanyong Building (南雍楼西326)
 - **Appointment**: Please email me at least one week in advance to schedule
 
+## Teams
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hGMQELFVCVHYkSQv-kV-_0B1VR5arff9AGbJVDZVhS8"></script>
+- Yuxuan Jiang, NJU PhD Candidate (0-Year).
+- Zhenyan Lu*, BUPT PhD Candidate (Final-year). Co-supervised with Mengwei Xu.
+- Haoze Qian*, BUPT PhD Candidate (Second-Year). Co-supervised with Mengwei Xu.
+- Yifan Duan*, BUPT Master Candidate.  Co-supervised with Mengwei Xu.
+
+Please note that, due to limited time and space, I am rarely able to take on lower-year undergraduates (first and second year) from outside Nanjing University. 
+
+Interns:
+
+- Yuntian Zhang, Undergraduate, Nanjing University.
+- Yepei Cai, Undergraduate, Nanjing University. First Job: Master student at NJU (Software Department)
+- Linkai Liu, Undergraduate, Manchester University. First Job: Master student at Imperical College.
+- Jiayao Shen, Master, Zhiyuan.
+- Bensheng Rao, Master, USTC
+- Daqian Yang, Master, Peking University
+- Mingchuan Ma, undergraduate, Sichuan University (1/31). First Job: PhD student at Peking University.
+- Nan Zou, Undergraduate, Beijing Normal University. First Job: Master student at USTC.
+- Ziyan Zhao, Undergraduate, Dalian University of Technology (3/120) First Job: Master student at Peking University
