@@ -15,11 +15,11 @@ Here are my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf) and [中文主页]
 
 ---
 
-## Research Interests
+<!-- ## Research Interests
 
 - **On-device Learning**: Zero-order optimization, memory-efficient training, edge AI
 - **Distributed AI Systems**: Federated learning, multi-agent collaboration, embodied intelligence
-- **Resource-Constrained AI**: Mobile computing, IoT systems, drone/robot intelligence
+- **Resource-Constrained AI**: Mobile computing, IoT systems, drone/robot intelligence -->
 
 <!-- --- -->
 
