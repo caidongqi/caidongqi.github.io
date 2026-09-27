@@ -16,6 +16,10 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=d
 
 ### 2026
 
+- \[[IEEE TMC'26](https://ieeexplore.ieee.org/abstract/document/11655536)\] **FeS: Federated NLP in Few-shot Scenarios**
+
+  **Dongqi Cai**, Chen Yang, Nan Zou, Shangguang Wang, Yuxuan Jiang, Yaozong Wu, Mengwei Xu, Nicholas D. Lane
+
 - \[[Nature Communications'26](https://www.nature.com/articles/s41467-026-68862-x)\] **Auditing Unauthorized Training Data from AI Generated Content Using Information Isotopes**
 
   Tao Qi, Jinhua Yin, **Dongqi Cai**, Yueqi Xie, Huili Wang, Zhiyang Hu, Peiru Yang, Guoshun Nan, Zhili Zhou, Chuhan Wu, Lingjuan Lyu, Shangguang Wang, Yongfeng Huang, Nicholas D. Lane
