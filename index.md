@@ -129,21 +129,23 @@ I hold weekly office hours for course learning, academic research, and career pl
 ## Teams
 
 
-- Yuxuan Jiang, NJU PhD Candidate (0-Year).
-- Zhenyan Lu*, BUPT PhD Candidate (Final-year). Co-supervised with Mengwei Xu.
-- Haoze Qian*, BUPT PhD Candidate (Second-Year). Co-supervised with Mengwei Xu.
-- Yifan Duan*, BUPT Master Candidate.  Co-supervised with Mengwei Xu.
+- Yuxuan Jiang, NJU PhD Candidate (2027).
+- Jianghao Zhou, NJU Master Candidate (2027).
+- Yicheng Lu, NJU Master Candidate (2026-present).
+- Haorui Jia*, NJU Master Candidate (2026-present). Cosupervised with Zhenshan Bing.
+- Zhenyan Lu*, BUPT PhD Candidate (2025-present). Co-supervised with Mengwei Xu.
+- Haoze Qian*, BUPT PhD Candidate (2025-present). Co-supervised with Mengwei Xu.
+- Yifan Duan*, BUPT Master Candidate (2024-present).  Co-supervised with Mengwei Xu.
 
 Please note that, due to limited time and space, I am rarely able to take on lower-year undergraduates (first and second year) from outside Nanjing University. 
 
 Interns:
 
 - Yuntian Zhang, Undergraduate, Nanjing University.
-- Yepei Cai, Undergraduate, Nanjing University. First Job: Master student at NJU (Software Department)
+- Ziyan Zhao, Undergraduate, Dalian University of Technology (3/120) First Job: Master student at Peking University
 - Linkai Liu, Undergraduate, Manchester University. First Job: Master student at Imperical College.
+- Yepei Cai, Undergraduate, Nanjing University. First Job: Master student at NJU (Software Department)
 - Jiayao Shen, Master, Zhiyuan.
-- Bensheng Rao, Master, USTC
 - Daqian Yang, Master, Peking University
 - Mingchuan Ma, undergraduate, Sichuan University (1/31). First Job: PhD student at Peking University.
 - Nan Zou, Undergraduate, Beijing Normal University. First Job: Master student at USTC.
-- Ziyan Zhao, Undergraduate, Dalian University of Technology (3/120) First Job: Master student at Peking University
