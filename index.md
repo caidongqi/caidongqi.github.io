@@ -77,6 +77,11 @@ Here are my [Curriculum Vitae](/materials/cv-cdq-full-cn.pdf) and [中文主页]
 
   **Dongqi Cai**, Yaozong Wu, Shangguang Wang, Felix Xiaozhu Lin, Mengwei Xu
 
+## Preprints
+
+- \[[arXiv'26](https://arxiv.org/abs/2610.12368)\] **LiteNWM: Efficient Latent World Models for Onboard Visual Navigation in the Wild** \[[project page](https://litenwm.github.io/)\]
+
+  Linkai Liu\*, Yuntian Zhang\*, Zhenshan Bing, Chen Chen, Lingjuan Lyu, Shangguang Wang, Mengwei Xu, **Dongqi Cai\#**
 
 
 ## Visiting & Internship
